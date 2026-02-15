@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lait UHT 1L",
+      "qty": 150,
+      "origin": "France",
+      "entryDate": "2026-02-10",
+      "expiryDate": "2026-03-15",
+      "category": "Produits Laitiers",
+      "supplier": "Lactalis",
+      "unitPrice": 1.20
+    },
+    {
+      "id": 2,
+      "name": "Pain de Campagne",
+      "qty": 45,
+      "origin": "Côte d'Ivoire",
+      "entryDate": "2026-02-15",
+      "expiryDate": "2026-02-18",
+      "category": "Boulangerie",
+      "supplier": "Boulangerie Locale",
+      "unitPrice": 2.50
+    },
+    {
+      "id": 3,
+      "name": "Tomates Fraîches",
+      "qty": 80,
+      "origin": "Sénégal",
+      "entryDate": "2026-02-14",
+      "expiryDate": "2026-02-25",
+      "category": "Fruits & Légumes",
+      "supplier": "Maraîchers du Sud",
+      "unitPrice": 0.80
+    },
+    {
+      "id": 4,
+      "name": "Poulet Congelé",
+      "qty": 60,
+      "origin": "Brésil",
+      "entryDate": "2026-02-01",
+      "expiryDate": "2026-08-01",
+      "category": "Viandes & Poissons",
+      "supplier": "BRF SA",
+      "unitPrice": 5.50
+    },
+    {
+      "id": 5,
+      "name": "Riz Parfumé 5kg",
+      "qty": 120,
+      "origin": "Thaïlande",
+      "entryDate": "2026-01-20",
+      "expiryDate": "2027-01-20",
+      "category": "Épicerie",
+      "supplier": "Thai Rice Export",
+      "unitPrice": 8.00
+    },
+    {
+      "id": 6,
+      "name": "Eau Minérale 1.5L",
+      "qty": 200,
+      "origin": "Côte d'Ivoire",
+      "entryDate": "2026-02-12",
+      "expiryDate": "2026-05-12",
+      "category": "Boissons",
+      "supplier": "SAPH",
+      "unitPrice": 0.50
+    }
+  ]
+}
